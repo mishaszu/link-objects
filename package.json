@@ -1,0 +1,24 @@
+{
+  "name": "newobj",
+  "version": "1.0.0",
+  "description": "link objects with OLOO, no 'new' keyword, now 'class'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishaszu/newObj.git"
+  },
+  "keywords": [
+    "new",
+    "object",
+    "class"
+  ],
+  "author": "mishaszu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishaszu/newObj/issues"
+  },
+  "homepage": "https://github.com/mishaszu/newObj#readme"
+}
