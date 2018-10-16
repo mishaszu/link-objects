@@ -1,7 +1,7 @@
 {
   "name": "newobj",
   "version": "1.0.1",
-  "description": "link objects with OLOO, no 'new' keyword, now 'class'",
+  "description": "link objects with OLOO, no 'new' & 'class' keywords",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
