@@ -1,0 +1,1 @@
+exports.link = require('./link');

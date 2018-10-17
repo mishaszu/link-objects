@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mishaszu/link-objects/issues"
   },
-  "homepage": "https://github.com/mishaszu/link-objects#readme"
+  "homepage": "https://github.com/mishaszu/link-objects#readme",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
 }
