@@ -1,6 +1,6 @@
 {
-  "name": "newobj",
-  "version": "1.0.2",
+  "name": "link-objects",
+  "version": "0.0.1",
   "description": "link objects with OLOO, no 'new' & 'class' keywords",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mishaszu/newObj.git"
+    "url": "git+https://github.com/mishaszu/link-objects.git"
   },
   "keywords": [
     "new",
@@ -18,7 +18,7 @@
   "author": "mishaszu@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mishaszu/newObj/issues"
+    "url": "https://github.com/mishaszu/link-objects/issues"
   },
-  "homepage": "https://github.com/mishaszu/newObj#readme"
+  "homepage": "https://github.com/mishaszu/link-objects#readme"
 }
