@@ -1,0 +1,1 @@
+exports.linker = require('./proto');
